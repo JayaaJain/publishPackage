@@ -1,5 +1,5 @@
 {
-  "name": "publish-package",
+  "name": "publish-package-jaya",
   "version": "1.0.0",
   "description": "Publishing a test npm package",
   "main": "app.js",

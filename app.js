@@ -1,1 +1,5 @@
-console.log("Hello, Jaya!");
+function helloNpm(name) {
+  return `hello ${name}`
+}
+
+module.exports = helloNpm
